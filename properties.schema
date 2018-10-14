@@ -147,7 +147,7 @@
                   "required": true,
                   "default": "",
                   "title": "Option Text",
-                  "inputType": "Text",
+                  "inputType": "TextArea",
                   "validators": ["required"],
                   "help": "Option text",
                   "translatable": true
